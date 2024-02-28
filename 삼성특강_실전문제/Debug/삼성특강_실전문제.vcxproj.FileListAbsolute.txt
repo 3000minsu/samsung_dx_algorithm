@@ -1,0 +1,2 @@
+C:\Users\이민수\source\repos\삼성특강_실전문제\Debug\삼성특강_실전문제.exe
+C:\Users\이민수\source\repos\삼성특강_실전문제\Debug\삼성특강_실전문제.pdb
